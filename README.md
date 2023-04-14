@@ -1,9 +1,13 @@
-# Hi, I'm Ronald Stivel Melo Cardenas
-
+<div align="center">
+<h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/ronald-stivel-melo-cardenas-528017263">Ronald Stivel Melo Cardenas</a> 👋</h1>
+</div>
 
 ## About me
 
 I'm an electronic engineer passionate about programming and technology. Currently, I am focused on programming for Android using Kotlin. Here on my GitHub, you can find projects that I have developed to learn and put my knowledge into practice. The majority of them are for Android using Kotlin, but you can also find projects developed with C++, Python, and for the web.
+
+- 📲 Android developer
+- 🤖 Electronic engineer
 
 
 <!--
