@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi, I'm Ronald Stivel Melo Cardenas
+
+
+## About me
+
+I'm an electronic engineer passionate about programming and technology. Currently, I am focused on programming for Android using Kotlin. Here on my GitHub, you can find projects that I have developed to learn and put my knowledge into practice. The majority of them are for Android using Kotlin, but you can also find projects developed with C++, Python, and for the web.
+
 
 <!--
 **kring94/kring94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
